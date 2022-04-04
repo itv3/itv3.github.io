@@ -1,48 +1,129 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1综合FHD
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视&港澳台",CCTV-1综合FHD
 http://192.168.9.1:5141/rtp/239.11.0.65:5140
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2财经FHD
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视&港澳台",CCTV-2财经FHD
 http://192.168.9.1:5141/rtp/239.11.0.108:5140
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV-3综艺FHD
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视&港澳台",CCTV-3综艺FHD
 http://192.168.9.1:5141/rtp/239.11.0.101:5140
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4国际FHD
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视&港澳台",CCTV-4国际FHD
 http://192.168.9.1:5141/rtp/239.11.0.109:5140
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5体育FHD
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视&港澳台",CCTV-5体育FHD
 http://192.168.9.1:5141/rtp/239.11.0.100:5140
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+体育赛事FHD
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视&港澳台",CCTV-5+体育赛事FHD
 http://192.168.9.1:5141/rtp/239.11.0.241:5140
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6电影FHD
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视&港澳台",CCTV-6电影FHD
 http://192.168.9.1:5141/rtp/239.11.0.102:5140
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-7国防军事FHD
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视&港澳台",CCTV-7国防军事FHD
 http://192.168.9.1:5141/rtp/239.11.0.110:5140
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV-8电视剧FHD
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视&港澳台",CCTV-8电视剧FHD
 http://192.168.9.1:5141/rtp/239.11.0.103:5140
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV-9纪录FHD
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视&港澳台",CCTV-9纪录FHD
 http://192.168.9.1:5141/rtp/239.11.0.111:5140
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV-10科教FHD
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视&港澳台",CCTV-10科教FHD
 http://192.168.9.1:5141/rtp/239.11.0.112:5140
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV-11戏曲FHD
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视&港澳台",CCTV-11戏曲FHD
 http://192.168.9.1:5141/rtp/239.11.0.22:5140
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV-12社会与法FHD
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视&港澳台",CCTV-12社会与法FHD
 http://192.168.9.1:5141/rtp/239.11.0.113:5140
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13新闻FHD
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视&港澳台",CCTV-13新闻FHD
 http://192.168.9.1:5141/rtp/239.11.0.24:5140
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV-14少儿FHD
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视&港澳台",CCTV-14少儿FHD
 http://192.168.9.1:5141/rtp/239.11.0.114:5140
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15音乐FHD
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视&港澳台",CCTV-15音乐FHD
 http://192.168.9.1:5141/rtp/239.11.0.26:5140
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17农村农业FHD
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视&港澳台",CCTV-17农村农业FHD
 http://192.168.9.1:5141/rtp/239.11.0.107:5140
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="超高清",CCTV-16 4k
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="央视&港澳台",凤凰资讯
+http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="央视&港澳台",凤凰中文
+http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 group-title="央视&港澳台",香港创世电视1080P
+https://cdn.deepcore.online/hlsme/ctv_hk_1080.m3u8
+#EXTINF:-1 group-title="央视&港澳台",NHK华语视界
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="央视&港澳台",台视新闻台
+http://seb.sason.top/sc/tsxw_fhd.m3u8
+#EXTINF:-1 group-title="央视&港澳台",中天新闻
+http://seb.sason.top/sc/ztxw_fhd.m3u8
+#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="央视&港澳台",东森新闻台
+http://seb.sason.top/sc/dsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="央视&港澳台",东森财经新闻台
+
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="超高清&剧场综艺",CCTV-16 4k
 http://192.168.9.1:5141/rtp/239.11.0.67:5140
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="超高清",CCTV-4K
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="超高清&剧场综艺",CCTV-4K
 https://p.ggiptv.com/v/4k.m3u8
-#EXTINF:-1 tvg-id="7244" tvg-name="爱上4K" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="超高清",爱上4K
+#EXTINF:-1 tvg-id="7244" tvg-name="爱上4K" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="超高清&剧场综艺",爱上4K
 http://192.168.9.1:5141/rtp/239.11.0.120:5140
-#EXTINF:-1  group-title="超高清",咪咕4K
+#EXTINF:-1  group-title="超高清&剧场综艺",咪咕4K
 http://192.168.9.1:5141/rtp/239.11.0.122:5140
-#EXTINF:-1 group-title="超高清",北京IPTV 4K
+#EXTINF:-1 group-title="超高清&剧场综艺",北京IPTV 4K
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO3%2B2%2FLci77HWE%2FMDUdCEgEA%3D%3D%3A20211105223205%2C10000100000000050000000003887500%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
+#EXTINF:-1 group-title="超高清&剧场综艺",咪咕视频FHD
+http://192.168.9.1:5141/rtp/239.10.0.20:5140
+#EXTINF:-1 group-title="超高清&剧场综艺",BesTV百事通FHD
+http://192.168.9.1:5141/rtp/239.11.0.234:5140
+#EXTINF:-1 group-title="超高清&剧场综艺",NewTV精品记录FHD
+http://192.168.9.1:5141/rtp/239.11.0.132:5140
+#EXTINF:-1 group-title="超高清&剧场综艺",NewTV怡伴健康FHD
+http://192.168.9.1:5141/rtp/239.11.0.133:5140
+#EXTINF:-1 group-title="超高清&剧场综艺",NewTV精品体育FHD
+http://192.168.9.1:5141/rtp/239.11.0.134:5140
+#EXTINF:-1 group-title="超高清&剧场综艺",NewTV军事评论FHD
+http://192.168.9.1:5141/rtp/239.11.0.136:5140
+#EXTINF:-1 group-title="超高清&剧场综艺",NewTV农业致富FHD
+http://192.168.9.1:5141/rtp/239.11.0.137:5140
+#EXTINF:-1 group-title="超高清&剧场综艺",NewTV古装剧场FHD
+http://192.168.9.1:5141/rtp/239.11.0.141:5140
+#EXTINF:-1 group-title="超高清&剧场综艺",NewTV动作电影FHD
+http://192.168.9.1:5141/rtp/239.11.0.142:5140
+#EXTINF:-1 group-title="超高清&剧场综艺",NewTV军旅剧场FHD
+http://192.168.9.1:5141/rtp/239.11.0.143:5140
+#EXTINF:-1 group-title="超高清&剧场综艺",NewTV惊悚悬疑FHD
+http://192.168.9.1:5141/rtp/239.11.0.144:5140
+#EXTINF:-1 group-title="超高清&剧场综艺",NewTV海外剧场FHD
+http://192.168.9.1:5141/rtp/239.11.0.145:5140
+#EXTINF:-1 group-title="超高清&剧场综艺",NewTV武搏世界FHD
+http://192.168.9.1:5141/rtp/239.11.0.146:5140
+#EXTINF:-1 group-title="超高清&剧场综艺",NewTV明星大片FHD
+http://192.168.9.1:5141/rtp/239.11.0.147:5140
+#EXTINF:-1 group-title="超高清&剧场综艺",NewTV爱情戏剧FHD
+http://192.168.9.1:5141/rtp/239.11.0.149:5140
+#EXTINF:-1 group-title="超高清&剧场综艺",NewTV精品大剧FHD
+http://192.168.9.1:5141/rtp/239.11.0.150:5140
+#EXTINF:-1 group-title="超高清&剧场综艺",NewTV中国功夫FHD
+http://192.168.9.1:5141/rtp/239.11.0.151:5140
+#EXTINF:-1 group-title="超高清&剧场综艺",NewTV金牌综艺FHD
+http://192.168.9.1:5141/rtp/239.11.0.152:5140
+#EXTINF:-1 group-title="超高清&剧场综艺",天府TV经典再现FHD
+http://192.168.9.1:5141/rtp/239.10.0.130:5140
+#EXTINF:-1 group-title="超高清&剧场综艺",天府TV军旅谍战FHD
+http://192.168.9.1:5141/rtp/239.10.0.131:5140
+#EXTINF:-1 group-title="超高清&剧场综艺",天府TV教育综合FHD
+http://192.168.9.1:5141/rtp/239.10.0.136:5140
+#EXTINF:-1 group-title="超高清&剧场综艺",天府TV辣妈学院FHD
+http://192.168.9.1:5141/rtp/239.10.0.137:5140
+#EXTINF:-1 group-title="超高清&剧场综艺",天府TV风尚美食FHD
+http://192.168.9.1:5141/rtp/239.10.0.138:5140
+#EXTINF:-1 group-title="超高清&剧场综艺",天府TV健康生活FHD
+http://192.168.9.1:5141/rtp/239.10.0.139:5140
+#EXTINF:-1 group-title="超高清&剧场综艺",天府TV魔力荟萃FHD
+http://192.168.9.1:5141/rtp/239.10.0.140:5140
+#EXTINF:-1 group-title="超高清&剧场综艺",天府TV时尚天地FHD
+http://192.168.9.1:5141/rtp/239.10.0.141:5140
+#EXTINF:-1 group-title="超高清&剧场综艺",天府TV星动娱乐FHD
+http://192.168.9.1:5141/rtp/239.10.0.142:5140
+#EXTINF:-1 group-title="超高清&剧场综艺",天府TV时尚生活FHD
+http://192.168.9.1:5141/rtp/239.10.0.144:5140
+#EXTINF:-1 group-title="超高清&剧场综艺",天府TV魔力TVFHD
+http://192.168.9.1:5141/rtp/239.10.0.145:5140
+#EXTINF:-1 group-title="超高清&剧场综艺",天府TV积木宝贝FHD
+http://192.168.9.1:5141/rtp/239.10.0.157:5140
+#EXTINF:-1 group-title="超高清&剧场综艺",天府TV启蒙乐园FHD
+http://192.168.9.1:5141/rtp/239.10.0.158:5140
+#EXTINF:-1 group-title="超高清&剧场综艺",天府TV人文记录FHD
+http://192.168.9.1:5141/rtp/239.10.0.166:5140
+
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="四川频道",四川卫视FHD
 http://192.168.9.1:5141/rtp/239.11.0.78:5140
 #EXTINF:-1 tvg-id="2056" tvg-name="SCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv4.png" group-title="四川频道",四川新闻FHD
@@ -160,70 +241,7 @@ http://192.168.9.1:5141/rtp/239.10.0.79:5140
 http://192.168.9.1:5141/rtp/239.10.0.32:5140
 #EXTINF:-1 group-title="四川频道",安多卫视
 http://192.168.9.1:5141/rtp/239.11.0.124:5140
-#EXTINF:-1 group-title="四川频道",咪咕视频FHD
-http://192.168.9.1:5141/rtp/239.10.0.20:5140
-#EXTINF:-1 group-title="四川频道",BesTV百事通FHD
-http://192.168.9.1:5141/rtp/239.11.0.234:5140
-#EXTINF:-1 group-title="四川频道",NewTV精品记录FHD
-http://192.168.9.1:5141/rtp/239.11.0.132:5140
-#EXTINF:-1 group-title="四川频道",NewTV怡伴健康FHD
-http://192.168.9.1:5141/rtp/239.11.0.133:5140
-#EXTINF:-1 group-title="四川频道",NewTV精品体育FHD
-http://192.168.9.1:5141/rtp/239.11.0.134:5140
-#EXTINF:-1 group-title="四川频道",NewTV军事评论FHD
-http://192.168.9.1:5141/rtp/239.11.0.136:5140
-#EXTINF:-1 group-title="四川频道",NewTV农业致富FHD
-http://192.168.9.1:5141/rtp/239.11.0.137:5140
-#EXTINF:-1 group-title="四川频道",NewTV古装剧场FHD
-http://192.168.9.1:5141/rtp/239.11.0.141:5140
-#EXTINF:-1 group-title="四川频道",NewTV动作电影FHD
-http://192.168.9.1:5141/rtp/239.11.0.142:5140
-#EXTINF:-1 group-title="四川频道",NewTV军旅剧场FHD
-http://192.168.9.1:5141/rtp/239.11.0.143:5140
-#EXTINF:-1 group-title="四川频道",NewTV惊悚悬疑FHD
-http://192.168.9.1:5141/rtp/239.11.0.144:5140
-#EXTINF:-1 group-title="四川频道",NewTV海外剧场FHD
-http://192.168.9.1:5141/rtp/239.11.0.145:5140
-#EXTINF:-1 group-title="四川频道",NewTV武搏世界FHD
-http://192.168.9.1:5141/rtp/239.11.0.146:5140
-#EXTINF:-1 group-title="四川频道",NewTV明星大片FHD
-http://192.168.9.1:5141/rtp/239.11.0.147:5140
-#EXTINF:-1 group-title="四川频道",NewTV爱情戏剧FHD
-http://192.168.9.1:5141/rtp/239.11.0.149:5140
-#EXTINF:-1 group-title="四川频道",NewTV精品大剧FHD
-http://192.168.9.1:5141/rtp/239.11.0.150:5140
-#EXTINF:-1 group-title="四川频道",NewTV中国功夫FHD
-http://192.168.9.1:5141/rtp/239.11.0.151:5140
-#EXTINF:-1 group-title="四川频道",NewTV金牌综艺FHD
-http://192.168.9.1:5141/rtp/239.11.0.152:5140
-#EXTINF:-1 group-title="四川频道",天府TV经典再现FHD
-http://192.168.9.1:5141/rtp/239.10.0.130:5140
-#EXTINF:-1 group-title="四川频道",天府TV军旅谍战FHD
-http://192.168.9.1:5141/rtp/239.10.0.131:5140
-#EXTINF:-1 group-title="四川频道",天府TV教育综合FHD
-http://192.168.9.1:5141/rtp/239.10.0.136:5140
-#EXTINF:-1 group-title="四川频道",天府TV辣妈学院FHD
-http://192.168.9.1:5141/rtp/239.10.0.137:5140
-#EXTINF:-1 group-title="四川频道",天府TV风尚美食FHD
-http://192.168.9.1:5141/rtp/239.10.0.138:5140
-#EXTINF:-1 group-title="四川频道",天府TV健康生活FHD
-http://192.168.9.1:5141/rtp/239.10.0.139:5140
-#EXTINF:-1 group-title="四川频道",天府TV魔力荟萃FHD
-http://192.168.9.1:5141/rtp/239.10.0.140:5140
-#EXTINF:-1 group-title="四川频道",天府TV时尚天地FHD
-http://192.168.9.1:5141/rtp/239.10.0.141:5140
-#EXTINF:-1 group-title="四川频道",天府TV星动娱乐FHD
-http://192.168.9.1:5141/rtp/239.10.0.142:5140
-#EXTINF:-1 group-title="四川频道",天府TV时尚生活FHD
-http://192.168.9.1:5141/rtp/239.10.0.144:5140
-#EXTINF:-1 group-title="四川频道",天府TV魔力TVFHD
-http://192.168.9.1:5141/rtp/239.10.0.145:5140
-#EXTINF:-1 group-title="四川频道",天府TV积木宝贝FHD
-http://192.168.9.1:5141/rtp/239.10.0.157:5140
-#EXTINF:-1 group-title="四川频道",天府TV启蒙乐园FHD
-http://192.168.9.1:5141/rtp/239.10.0.158:5140
-#EXTINF:-1 group-title="四川频道",天府TV人文记录FHD
-http://192.168.9.1:5141/rtp/239.10.0.166:5140
+
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视FHD
 http://192.168.9.1:5141/rtp/239.11.0.119:5140
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视FHD
@@ -286,21 +304,7 @@ http://192.168.9.1:5141/rtp/239.11.0.57:5140
 http://192.168.9.1:5141/rtp/239.11.0.58:5140
 #EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视
 http://192.168.9.1:5141/rtp/239.11.0.193:5140
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
-http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
-http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-#EXTINF:-1 group-title="港澳台",香港创世电视1080P
-https://cdn.deepcore.online/hlsme/ctv_hk_1080.m3u8
-#EXTINF:-1 group-title="港澳台",NHK华语视界
-https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="港澳台",台视新闻台
-http://seb.sason.top/sc/tsxw_fhd.m3u8
-#EXTINF:-1 group-title="港澳台",中天新闻
-http://seb.sason.top/sc/ztxw_fhd.m3u8
-#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="港澳台",东森新闻台
-http://seb.sason.top/sc/dsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="港澳台",东森财经新闻台
+
 http://seb.sason.top/sc/dscjxw_fhd.m3u8
 #EXTINF:-1 group-title="直播中国",上海这一刻:魔都眼
 http://bililive.kksmg.com/hls/sdi80/playlist.m3u8
@@ -322,5 +326,3 @@ https://gcalic.v.myalicdn.com/gc/tjhh01_1/index.m3u8
 https://gcalic.v.myalicdn.com/gc/ylxs11_1/index.m3u8
 #EXTINF:-1 group-title="直播中国",玉龙雪山蓝月谷
 https://gcalic.v.myalicdn.com/gc/hkylxs08_1/index.m3u8
-
-
