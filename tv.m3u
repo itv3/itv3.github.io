@@ -307,11 +307,11 @@ http://seb.sason.top/sc/dscjxw_fhd.m3u8
 #EXTINF:-1 group-title="直播中国",上海这一刻:魔都眼
 http://bililive.kksmg.com/hls/sdi80/playlist.m3u8
 #EXTINF:-1 group-title="直播中国",上海这一刻:陆家嘴
-http://bililive.kksmg.com/hls/sdi70/playlist.m3u8
-#EXTINF:-1 group-title="直播中国",上海遥望陆家嘴
 https://gcalic.v.myalicdn.com/gc/blg05_1/index.m3u8
 #EXTINF:-1 group-title="直播中国",成都熊猫塔
 https://gccncc.v.wscdns.com/gc/lhszjsp_1/index.m3u8
+#EXTINF:-1 group-title="直播中国",峨眉山云海日出
+https://gccncc.v.wscdns.com/gc/emsarm_1/index.m3u8
 #EXTINF:-1 group-title="直播中国",浙江杭州千岛湖
 https://gccncc.v.wscdns.com/gc/caqdh_1/index.m3u8
 #EXTINF:-1 group-title="直播中国",宁夏大漠孤烟
@@ -320,11 +320,7 @@ https://gcalic.v.myalicdn.com/gc/tjhh01_1/index.m3u8
 https://gcalic.v.myalicdn.com/gc/ylxs11_1/index.m3u8
 #EXTINF:-1 group-title="直播中国",玉龙雪山蓝月谷
 https://gcalic.v.myalicdn.com/gc/hkylxs08_1/index.m3u8
-#EXTINF:-1 group-title="直播中国",峨眉山云海日出
-https://gccncc.v.wscdns.com/gc/emsarm_1/index.m3u8
 #EXTINF:-1 group-title="直播中国",鸣沙山山门
-https://gcalic.v.myalicdn.com/gc/dhyyqst_1/index.m3u8
-#EXTINF:-1 group-title="直播中国",鸣沙山月牙泉
 https://gcalic.v.myalicdn.com/gc/dhyyqsm_1/index.m3u8
 #EXTINF:-1 group-title="直播中国",安徽黄山宏村月沼
 https://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8
