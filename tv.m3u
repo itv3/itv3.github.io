@@ -9,8 +9,6 @@ http://192.168.9.1:5141/rtp/239.11.0.101:5140
 http://192.168.9.1:5141/rtp/239.11.0.109:5140
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视&港澳台",CCTV-5体育FHD
 http://192.168.9.1:5141/rtp/239.11.0.100:5140
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视&港澳台",CCTV-5+体育赛事FHD
-http://192.168.9.1:5141/rtp/239.11.0.241:5140
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视&港澳台",CCTV-6电影FHD
 http://192.168.9.1:5141/rtp/239.11.0.102:5140
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视&港澳台",CCTV-7国防军事FHD
@@ -31,10 +29,12 @@ http://192.168.9.1:5141/rtp/239.11.0.24:5140
 http://192.168.9.1:5141/rtp/239.11.0.26:5140
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视&港澳台",CCTV-17农村农业FHD
 http://192.168.9.1:5141/rtp/239.11.0.107:5140
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视&港澳台",CCTV-5+体育赛事FHD
+http://192.168.9.1:5141/rtp/239.11.0.241:5140
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="央视&港澳台",凤凰资讯
-http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+http://183.251.61.207/PLTV/88888888/224/3221227226/index.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="央视&港澳台",凤凰中文
-http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+http://183.251.61.207/PLTV/88888888/224/3221227222/index.m3u8
 #EXTINF:-1 group-title="央视&港澳台",香港创世电视1080P
 https://cdn.deepcore.online/hlsme/ctv_hk_1080.m3u8
 #EXTINF:-1 group-title="央视&港澳台",NHK华语视界
@@ -55,6 +55,10 @@ https://p.ggiptv.com/v/4k.m3u8
 http://192.168.9.1:5141/rtp/239.11.0.120:5140
 #EXTINF:-1  group-title="超高清&剧场综艺",咪咕4K
 http://192.168.9.1:5141/rtp/239.11.0.122:5140
+#EXTINF:-1  group-title="超高清&剧场综艺",纯享4K
+http://39.135.55.7:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1
+#EXTINF:-1  group-title="超高清&剧场综艺",芒果TV4k
+http://183.251.61.207/PLTV/88888888/224/3221226887/index.m3u8
 #EXTINF:-1 group-title="超高清&剧场综艺",北京IPTV 4K
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO3%2B2%2FLci77HWE%2FMDUdCEgEA%3D%3D%3A20211105223205%2C10000100000000050000000003887500%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
 #EXTINF:-1 group-title="超高清&剧场综艺",咪咕视频FHD
@@ -115,7 +119,6 @@ http://192.168.9.1:5141/rtp/239.10.0.144:5140
 http://192.168.9.1:5141/rtp/239.10.0.145:5140
 #EXTINF:-1 group-title="超高清&剧场综艺",天府TV人文记录FHD
 http://192.168.9.1:5141/rtp/239.10.0.166:5140
-
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="四川频道",四川卫视FHD
 http://192.168.9.1:5141/rtp/239.11.0.78:5140
 #EXTINF:-1 tvg-id="2056" tvg-name="SCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv4.png" group-title="四川频道",四川新闻FHD
@@ -232,7 +235,6 @@ http://192.168.9.1:5141/rtp/239.10.0.79:5140
 http://192.168.9.1:5141/rtp/239.10.0.32:5140
 #EXTINF:-1 group-title="四川频道",安多卫视
 http://192.168.9.1:5141/rtp/239.11.0.124:5140
-
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视FHD
 http://192.168.9.1:5141/rtp/239.11.0.119:5140
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视FHD
@@ -277,8 +279,8 @@ http://192.168.9.1:5141/rtp/239.11.0.48:5140
 http://192.168.9.1:5141/rtp/239.11.0.51:5140
 #EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视FHD
 http://192.168.9.1:5141/rtp/239.11.0.55:5140
-#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视
-http://192.168.9.1:5141/rtp/239.11.0.52:5140
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视FHD
+http://183.251.61.207/PLTV/88888888/224/3221227181/index.m3u8
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视",西藏卫视
 http://192.168.9.1:5141/rtp/239.11.0.53:5140
 #EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视",内蒙古卫视
