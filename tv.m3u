@@ -21,7 +21,7 @@ http://192.168.9.1:5141/rtp/239.11.0.111:5140
 http://192.168.9.1:5141/rtp/239.11.0.112:5140
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视&卫视",CCTV-11戏曲FHD
 http://192.168.9.1:5141/rtp/239.11.0.22:5140
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视&卫视CCTV-12社会与法FHD
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视&卫视",CCTV-12社会与法FHD
 http://192.168.9.1:5141/rtp/239.11.0.113:5140
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视&卫视",CCTV-13新闻FHD
 http://192.168.9.1:5141/rtp/239.11.0.24:5140
