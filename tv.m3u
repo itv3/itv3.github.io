@@ -29,7 +29,7 @@ http://192.168.9.1:5141/rtp/239.11.0.24:5140
 http://192.168.9.1:5141/rtp/239.11.0.114:5140
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视&卫视",CCTV-15音乐FHD
 http://192.168.9.1:5141/rtp/239.11.0.26:5140
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视&卫视CCTV-17农村农业FHD
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视&卫视",CCTV-17农村农业FHD
 http://192.168.9.1:5141/rtp/239.11.0.107:5140
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视&卫视",CCTV-5+体育赛事FHD
 http://192.168.9.1:5141/rtp/239.11.0.241:5140
@@ -301,6 +301,7 @@ http://192.168.9.1:5141/rtp/239.10.0.79:5140
 http://192.168.9.1:5141/rtp/239.10.0.32:5140
 #EXTINF:-1 group-title="四川频道",安多卫视
 http://192.168.9.1:5141/rtp/239.11.0.124:5140
+
 
 #EXTINF:-1 group-title="直播中国",童童乐园
 http://192.168.9.1:5141/rtp/239.10.0.210:5140
