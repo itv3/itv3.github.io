@@ -1,153 +1,153 @@
-ÑëÊÓÎÀÊÓ
-CCTV1×ÛºÏHD,rtp://239.11.0.65:5140,cntv-cctv1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225642/index.m3u8.smil
-CCTV2²Æ¾­HD,rtp://239.11.0.108:5140,cntv-cctv2,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225643/index.m3u8.smil
-CCTV3×ÛÒÕHD,rtp://239.11.0.101:5140,cntv-cctv3,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225634/index.m3u8.smil
-CCTV4¹ú¼ÊHD,rtp://239.11.0.109:5140,cntv-cctv4,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225621/index.m3u8.smil
-CCTV5ÌåÓıHD,rtp://239.11.0.100:5140,cntv-cctv5,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225633/index.m3u8.smil
-CCTV6µçÓ°HD,rtp://239.11.0.102:5140,cntv-cctv6,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225632/index.m3u8.smil
-CCTV7¹ú·À¾üÊÂHD,rtp://239.11.0.110:5140,cntv-cctv7,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225644/index.m3u8.smil
-CCTV8µçÊÓ¾çHD,rtp://239.11.0.103:5140,cntv-cctv8,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225631/index.m3u8.smil
-CCTV9¼ÍÂ¼HD,rtp://239.11.0.111:5140,cntv-cctvjilu,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225646/index.m3u8.smil
-CCTV10¿Æ½ÌHD,rtp://239.11.0.112:5140,cntv-cctv10,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225636/index.m3u8.smil
-CCTV11Ï·ÇúHD,rtp://239.11.0.22:5140,cntv-cctv11,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225628/index.m3u8.smil
-CCTV12Éç»áÓë·¨HD,rtp://239.11.0.113:5140,cntv-cctv12,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225637/index.m3u8.smil
-CCTV13ĞÂÎÅHD,rtp://239.11.0.24:5140,cntv-cctv13,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225638/index.m3u8.smil
-CCTV14ÉÙ¶ùHD,rtp://239.11.0.114:5140,cntv-cctvchild,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225640/index.m3u8.smil
-CCTV15ÒôÀÖHD,rtp://239.11.0.26:5140,cntv-cctv15,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8.smil
+å¤®è§†å«è§†
+CCTV1ç»¼åˆHD,rtp://239.11.0.65:5140,cntv-cctv1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225642/index.m3u8.smil
+CCTV2è´¢ç»HD,rtp://239.11.0.108:5140,cntv-cctv2,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225643/index.m3u8.smil
+CCTV3ç»¼è‰ºHD,rtp://239.11.0.101:5140,cntv-cctv3,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225634/index.m3u8.smil
+CCTV4å›½é™…HD,rtp://239.11.0.109:5140,cntv-cctv4,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225621/index.m3u8.smil
+CCTV5ä½“è‚²HD,rtp://239.11.0.100:5140,cntv-cctv5,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225633/index.m3u8.smil
+CCTV6ç”µå½±HD,rtp://239.11.0.102:5140,cntv-cctv6,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225632/index.m3u8.smil
+CCTV7å›½é˜²å†›äº‹HD,rtp://239.11.0.110:5140,cntv-cctv7,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225644/index.m3u8.smil
+CCTV8ç”µè§†å‰§HD,rtp://239.11.0.103:5140,cntv-cctv8,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225631/index.m3u8.smil
+CCTV9çºªå½•HD,rtp://239.11.0.111:5140,cntv-cctvjilu,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225646/index.m3u8.smil
+CCTV10ç§‘æ•™HD,rtp://239.11.0.112:5140,cntv-cctv10,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225636/index.m3u8.smil
+CCTV11æˆæ›²HD,rtp://239.11.0.22:5140,cntv-cctv11,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225628/index.m3u8.smil
+CCTV12ç¤¾ä¼šä¸æ³•HD,rtp://239.11.0.113:5140,cntv-cctv12,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225637/index.m3u8.smil
+CCTV13æ–°é—»HD,rtp://239.11.0.24:5140,cntv-cctv13,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225638/index.m3u8.smil
+CCTV14å°‘å„¿HD,rtp://239.11.0.114:5140,cntv-cctvchild,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225640/index.m3u8.smil
+CCTV15éŸ³ä¹HD,rtp://239.11.0.26:5140,cntv-cctv15,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8.smil
 CCTV5+HD,rtp://239.11.0.241:5140,tvmao-cctv5plus,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225706/index.m3u8.smil
-CCTV17Å©´åÅ©ÒµHD,rtp://239.11.0.107:5140,tvmao-cctv17,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225909/index.m3u8.smil
-·ï»Ë×ÊÑ¶HD,http://183.251.61.207/PLTV/88888888/224/3221227226/index.m3u8#http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8,tvmao-fenghuangzixun
-·ï»ËÖĞÎÄHD,http://183.251.61.207/PLTV/88888888/224/3221227222/index.m3u8#http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8,tvmao-fenghuangzhongwen
-ºşÄÏÎÀÊÓHD,rtp://239.11.0.119:5140,cntv-henan,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225704/index.m3u8.smil
-Õã½­ÎÀÊÓHD,rtp://239.11.0.70:5140,cntv-zhejiang,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225703/index.m3u8.smil
-¶«·½ÎÀÊÓHD,rtp://239.11.0.68:5140,cntv-dongfang,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225659/index.m3u8.smil
-ÉîÛÚÎÀÊÓHD,rtp://239.11.0.71:5140,cntv-shenzhen,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225700/index.m3u8.smil
-¹ã¶«ÎÀÊÓHD,rtp://239.11.0.115:5140,cntv-guangdong,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225701/index.m3u8.smil
-±±¾©ÎÀÊÓHD,rtp://239.11.0.121:5140,cntv-btv1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225674/index.m3u8.smil
-Ìì½òÎÀÊÓHD,rtp://239.11.0.123:5140,cntv-tianjin,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225698/index.m3u8.smil
-ÖØÇìÎÀÊÓHD,rtp://239.11.0.116:5140,cntv-chongqing,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225692/index.m3u8.smil
-ÁÉÄşÎÀÊÓHD,rtp://239.11.0.118:5140,cntv-liaoning,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225696/index.m3u8.smil
-°²»ÕÎÀÊÓHD,rtp://239.11.0.117:5140,cntv-anhui,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225691/index.m3u8.smil
-ºş±±ÎÀÊÓHD,rtp://239.11.0.74:5140,cntv-hubei,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225699/index.m3u8.smil
-ºÓ±±ÎÀÊÓHD,rtp://239.11.0.31:5140,cntv-hebei,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225610/index.m3u8?fmt=ts2hls.smil
-ºÓÄÏÎÀÊÓHD,rtp://239.11.0.44:5140,cntv-henan,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225611/index.m3u8?fmt=ts2hls.smil
-½­ËÕÎÀÊÓHD,rtp://239.11.0.76:5140,cntv-jiangsu,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225702/index.m3u8.smil
-½­Î÷ÎÀÊÓHD,rtp://239.11.0.42:5140,cntv-jiangxi,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225492/index.m3u8?fmt=ts2hls.smil
-¼ªÁÖÎÀÊÓHD,rtp://239.11.0.35:5140,cntv-jilin,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225680/index.m3u8.smil
-É½¶«ÎÀÊÓHD,rtp://239.11.0.73:5140,cntv-shandong,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225697/index.m3u8.smil
-É½Î÷ÎÀÊÓ,rtp://239.11.0.32:5140,cntv-shan1xi,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225730/index.m3u8.smil
-ºÚÁú½­ÎÀÊÓHD,rtp://239.11.0.36:5140,cntv-heilongjiang,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225690/index.m3u8.smil
-¸ÊËàÎÀÊÓHD,rtp://239.11.0.55:5140,cntv-gansu,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225724/index.m3u8.smil
-¹óÖİÎÀÊÓHD,rtp://239.11.0.51:5140,cntv-guizhou,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225483/index.m3u8?fmt=ts2hls.smil
-ÔÆÄÏÎÀÊÓHD,http://183.251.61.207/PLTV/88888888/224/3221227181/index.m3u8#rtp://239.11.0.52:5140,cntv-yunnan,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225664/index.m3u8.smil
-¶«ÄÏÎÀÊÓHD,rtp://239.11.0.41:5140,cntv-dongnan,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225585/index.m3u8?fmt=ts2hls.smil
-¹ãÎ÷ÎÀÊÓHD,rtp://239.11.0.48:5140,cntv-guangxi,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226211/index.m3u8?fmt=ts2hls.smil
-ĞÂ½®ÎÀÊÓ,rtp://239.11.0.58:5140,cntv-xinjiang,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225725/index.m3u8.smil
-Î÷²ØÎÀÊÓ,rtp://239.11.0.53:5140,cntv-xizang,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225723/index.m3u8.smil
-ÄÚÃÉ¹ÅÎÀÊÓ,rtp://239.11.0.33:5140,cntv-neimenggu,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225667/index.m3u8.smil
-ÄşÏÄÎÀÊÓ,rtp://239.11.0.57:5140,cntv-ningxia,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225726/index.m3u8.smil
-Çàº£ÎÀÊÓ,rtp://239.11.0.56:5140,cntv-qinghai,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225727/index.m3u8.smil
-ÉÂÎ÷ÎÀÊÓ,rtp://239.11.0.54:5140,cntv-shan3xi,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225729/index.m3u8.smil
-º£ÄÏÎÀÊÓHD,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226212/index.m3u8?fmt=ts2hls#rtp://239.11.0.193:5140, tvmao-hainanweishi,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226212/index.m3u8?fmt=ts2hls.smil
+CCTV17å†œæ‘å†œä¸šHD,rtp://239.11.0.107:5140,tvmao-cctv17,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225909/index.m3u8.smil
+å‡¤å‡°èµ„è®¯HD,http://183.251.61.207/PLTV/88888888/224/3221227226/index.m3u8#http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8,tvmao-fenghuangzixun
+å‡¤å‡°ä¸­æ–‡HD,http://183.251.61.207/PLTV/88888888/224/3221227222/index.m3u8#http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8,tvmao-fenghuangzhongwen
+æ¹–å—å«è§†HD,rtp://239.11.0.119:5140,cntv-henan,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225704/index.m3u8.smil
+æµ™æ±Ÿå«è§†HD,rtp://239.11.0.70:5140,cntv-zhejiang,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225703/index.m3u8.smil
+ä¸œæ–¹å«è§†HD,rtp://239.11.0.68:5140,cntv-dongfang,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225659/index.m3u8.smil
+æ·±åœ³å«è§†HD,rtp://239.11.0.71:5140,cntv-shenzhen,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225700/index.m3u8.smil
+å¹¿ä¸œå«è§†HD,rtp://239.11.0.115:5140,cntv-guangdong,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225701/index.m3u8.smil
+åŒ—äº¬å«è§†HD,rtp://239.11.0.121:5140,cntv-btv1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225674/index.m3u8.smil
+å¤©æ´¥å«è§†HD,rtp://239.11.0.123:5140,cntv-tianjin,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225698/index.m3u8.smil
+é‡åº†å«è§†HD,rtp://239.11.0.116:5140,cntv-chongqing,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225692/index.m3u8.smil
+è¾½å®å«è§†HD,rtp://239.11.0.118:5140,cntv-liaoning,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225696/index.m3u8.smil
+å®‰å¾½å«è§†HD,rtp://239.11.0.117:5140,cntv-anhui,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225691/index.m3u8.smil
+æ¹–åŒ—å«è§†HD,rtp://239.11.0.74:5140,cntv-hubei,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225699/index.m3u8.smil
+æ²³åŒ—å«è§†HD,rtp://239.11.0.31:5140,cntv-hebei,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225610/index.m3u8?fmt=ts2hls.smil
+æ²³å—å«è§†HD,rtp://239.11.0.44:5140,cntv-henan,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225611/index.m3u8?fmt=ts2hls.smil
+æ±Ÿè‹å«è§†HD,rtp://239.11.0.76:5140,cntv-jiangsu,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225702/index.m3u8.smil
+æ±Ÿè¥¿å«è§†HD,rtp://239.11.0.42:5140,cntv-jiangxi,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225492/index.m3u8?fmt=ts2hls.smil
+å‰æ—å«è§†HD,rtp://239.11.0.35:5140,cntv-jilin,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225680/index.m3u8.smil
+å±±ä¸œå«è§†HD,rtp://239.11.0.73:5140,cntv-shandong,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225697/index.m3u8.smil
+å±±è¥¿å«è§†,rtp://239.11.0.32:5140,cntv-shan1xi,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225730/index.m3u8.smil
+é»‘é¾™æ±Ÿå«è§†HD,rtp://239.11.0.36:5140,cntv-heilongjiang,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225690/index.m3u8.smil
+ç”˜è‚ƒå«è§†HD,rtp://239.11.0.55:5140,cntv-gansu,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225724/index.m3u8.smil
+è´µå·å«è§†HD,rtp://239.11.0.51:5140,cntv-guizhou,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225483/index.m3u8?fmt=ts2hls.smil
+äº‘å—å«è§†HD,http://183.251.61.207/PLTV/88888888/224/3221227181/index.m3u8#rtp://239.11.0.52:5140,cntv-yunnan,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225664/index.m3u8.smil
+ä¸œå—å«è§†HD,rtp://239.11.0.41:5140,cntv-dongnan,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225585/index.m3u8?fmt=ts2hls.smil
+å¹¿è¥¿å«è§†HD,rtp://239.11.0.48:5140,cntv-guangxi,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226211/index.m3u8?fmt=ts2hls.smil
+æ–°ç–†å«è§†,rtp://239.11.0.58:5140,cntv-xinjiang,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225725/index.m3u8.smil
+è¥¿è—å«è§†,rtp://239.11.0.53:5140,cntv-xizang,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225723/index.m3u8.smil
+å†…è’™å¤å«è§†,rtp://239.11.0.33:5140,cntv-neimenggu,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225667/index.m3u8.smil
+å®å¤å«è§†,rtp://239.11.0.57:5140,cntv-ningxia,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225726/index.m3u8.smil
+é’æµ·å«è§†,rtp://239.11.0.56:5140,cntv-qinghai,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225727/index.m3u8.smil
+é™•è¥¿å«è§†,rtp://239.11.0.54:5140,cntv-shan3xi,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225729/index.m3u8.smil
+æµ·å—å«è§†HD,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226212/index.m3u8?fmt=ts2hls#rtp://239.11.0.193:5140, tvmao-hainanweishi,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226212/index.m3u8?fmt=ts2hls.smil
 
-³¬¸ßÇå&¾ç³¡×ÛÒÕ
-CCTV16°ÂÁÖÆ¥¿Ë4K,rtp://239.11.0.67:5140,tvmao-cctv16
+è¶…é«˜æ¸…&å‰§åœºç»¼è‰º
+CCTV16å¥¥æ—åŒ¹å…‹4K,rtp://239.11.0.67:5140,tvmao-cctv16
 CCTV-4k,https://p.ggiptv.com/v/4k.m3u8,tvmao-cctv4k
-°®ÉÏ4K,rtp://239.11.0.120:5140
-ßä¹¾4K,rtp://239.11.0.122:5140
-´¿Ïí4K,http://39.135.55.7:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1,tvmao-chunxiang4k
-Ã¢¹ûTV4k,http://183.251.61.207/PLTV/88888888/224/3221226887/index.m3u8,tvmao-mangguodubo
-±±¾©IPTV 4K,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO3%2B2%2FLci77HWE%2FMDUdCEgEA%3D%3D%3A20211105223205%2C10000100000000050000000003887500%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
-ßä¹¾ÊÓÆµHD,rtp://239.10.0.20:5140
-BesTV°ÙÊÂÍ¨HD,rtp://239.11.0.234:5140
-NewTV¾«Æ·¼ÇÂ¼HD,rtp://239.11.0.132:5140, tvmao-newtvjingpinjilu
-NewTVâù°é½¡¿µHD,rtp://239.11.0.133:5140, tvmao-newtvyibanjiankang
-NewTV¾«Æ·ÌåÓıHD,rtp://239.11.0.134:5140, tvmao-newtvjingpintiyu
-NewTV¾üÊÂÆÀÂÛHD,rtp://239.11.0.136:5140, tvmao-newtvjunshipinglun
-NewTVÅ©ÒµÖÂ¸»HD,rtp://239.11.0.137:5140, tvmao-newtvnongyezhifu
-NewTV¹Å×°¾ç³¡HD,rtp://239.11.0.141:5140, tvmao-newtvguzhuangjuchang
-NewTV¶¯×÷µçÓ°HD,rtp://239.11.0.142:5140, tvmao-newtvdongzuodianying
-NewTV¾üÂÃ¾ç³¡HD,rtp://239.11.0.143:5140, tvmao-newtvjunlvjuchang
-NewTV¾ªã¤ĞüÒÉHD,rtp://239.11.0.144:5140, tvmao-newtvjingsongxuanyi
-NewTVº£Íâ¾ç³¡HD,rtp://239.11.0.145:5140, tvmao-newtvjiatingjuchang
-NewTV¾«Æ·×ÛºÏHD,rtp://239.11.0.147:5140, tvmao-newtvjingpinzonghe
-NewTV°®ÇéÏ²¾çHD,rtp://239.11.0.149:5140, tvmao-newtvaiqingxiju
-NewTV¾«Æ·´ó¾çHD,rtp://239.11.0.150:5140, tvmao-newtvjingpindaju
-NewTVÖĞ¹ú¹¦·òHD,rtp://239.11.0.151:5140, tvmao-newtvzhongguogongfu
-NewTV½ğÅÆ×ÛÒÕHD,rtp://239.11.0.152:5140, tvmao-newtvjinpaizongyi
-Ìì¸®TV¾­µäÔÙÏÖHD,rtp://239.10.0.130:5140
-Ìì¸®TV¾üÂÃµıÕ½HD,rtp://239.10.0.131:5140
-Ìì¸®TV½ÌÓı×ÛºÏHD,rtp://239.10.0.136:5140
-Ìì¸®TVÀ±ÂèÑ§ÔºHD,rtp://239.10.0.137:5140
-Ìì¸®TV·çÉĞÃÀÊ³HD,rtp://239.10.0.138:5140
-Ìì¸®TV½¡¿µÉú»îHD,rtp://239.10.0.139:5140
-Ìì¸®TVÄ§Á¦ÜöİÍHD,rtp://239.10.0.140:5140
-Ìì¸®TVÊ±ÉĞÌìµØHD,rtp://239.10.0.141:5140
-Ìì¸®TVĞÇ¶¯ÓéÀÖHD,rtp://239.10.0.142:5140
-Ìì¸®TVÊ±ÉĞÉú»îHD,rtp://239.10.0.144:5140
-Ìì¸®TVÄ§Á¦TVHD,rtp://239.10.0.145:5140
-Ìì¸®TVÈËÎÄ¼ÇÂ¼HD,rtp://239.10.0.166:5140
-Ìì¸®TV»ıÄ¾±¦±´HD,rtp://239.10.0.157:5140
-Ìì¸®TVÆôÃÉÀÖÔ°HD,rtp://239.10.0.158:5140
-³É¶¼ÉÙ¶ùÆµµÀ,rtp://239.10.0.16:5140
-½ğÓ¥¿¨Í¨,rtp://239.11.0.127:5140
-ÓÅÂş¿¨Í¨,rtp://239.11.0.63:5140
+çˆ±ä¸Š4K,rtp://239.11.0.120:5140
+å’ªå’•4K,rtp://239.11.0.122:5140
+çº¯äº«4K,http://39.135.55.7:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1,tvmao-chunxiang4k,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8.smil,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8.smil
+èŠ’æœTV4k,http://183.251.61.207/PLTV/88888888/224/3221226887/index.m3u8,tvmao-mangguodubo
+åŒ—äº¬IPTV 4K,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO3%2B2%2FLci77HWE%2FMDUdCEgEA%3D%3D%3A20211105223205%2C10000100000000050000000003887500%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
+å’ªå’•è§†é¢‘HD,rtp://239.10.0.20:5140
+BesTVç™¾äº‹é€šHD,rtp://239.11.0.234:5140
+NewTVç²¾å“è®°å½•HD,rtp://239.11.0.132:5140, tvmao-newtvjingpinjilu
+NewTVæ€¡ä¼´å¥åº·HD,rtp://239.11.0.133:5140, tvmao-newtvyibanjiankang
+NewTVç²¾å“ä½“è‚²HD,rtp://239.11.0.134:5140, tvmao-newtvjingpintiyu
+NewTVå†›äº‹è¯„è®ºHD,rtp://239.11.0.136:5140, tvmao-newtvjunshipinglun
+NewTVå†œä¸šè‡´å¯ŒHD,rtp://239.11.0.137:5140, tvmao-newtvnongyezhifu
+NewTVå¤è£…å‰§åœºHD,rtp://239.11.0.141:5140, tvmao-newtvguzhuangjuchang
+NewTVåŠ¨ä½œç”µå½±HD,rtp://239.11.0.142:5140, tvmao-newtvdongzuodianying
+NewTVå†›æ—…å‰§åœºHD,rtp://239.11.0.143:5140, tvmao-newtvjunlvjuchang
+NewTVæƒŠæ‚šæ‚¬ç–‘HD,rtp://239.11.0.144:5140, tvmao-newtvjingsongxuanyi
+NewTVæµ·å¤–å‰§åœºHD,rtp://239.11.0.145:5140, tvmao-newtvjiatingjuchang
+NewTVç²¾å“ç»¼åˆHD,rtp://239.11.0.147:5140, tvmao-newtvjingpinzonghe
+NewTVçˆ±æƒ…å–œå‰§HD,rtp://239.11.0.149:5140, tvmao-newtvaiqingxiju
+NewTVç²¾å“å¤§å‰§HD,rtp://239.11.0.150:5140, tvmao-newtvjingpindaju
+NewTVä¸­å›½åŠŸå¤«HD,rtp://239.11.0.151:5140, tvmao-newtvzhongguogongfu
+NewTVé‡‘ç‰Œç»¼è‰ºHD,rtp://239.11.0.152:5140, tvmao-newtvjinpaizongyi
+å¤©åºœTVç»å…¸å†ç°HD,rtp://239.10.0.130:5140
+å¤©åºœTVå†›æ—…è°æˆ˜HD,rtp://239.10.0.131:5140
+å¤©åºœTVæ•™è‚²ç»¼åˆHD,rtp://239.10.0.136:5140
+å¤©åºœTVè¾£å¦ˆå­¦é™¢HD,rtp://239.10.0.137:5140
+å¤©åºœTVé£å°šç¾é£ŸHD,rtp://239.10.0.138:5140
+å¤©åºœTVå¥åº·ç”Ÿæ´»HD,rtp://239.10.0.139:5140
+å¤©åºœTVé­”åŠ›èŸèƒHD,rtp://239.10.0.140:5140
+å¤©åºœTVæ—¶å°šå¤©åœ°HD,rtp://239.10.0.141:5140
+å¤©åºœTVæ˜ŸåŠ¨å¨±ä¹HD,rtp://239.10.0.142:5140
+å¤©åºœTVæ—¶å°šç”Ÿæ´»HD,rtp://239.10.0.144:5140
+å¤©åºœTVé­”åŠ›TVHD,rtp://239.10.0.145:5140
+å¤©åºœTVäººæ–‡è®°å½•HD,rtp://239.10.0.166:5140
+å¤©åºœTVç§¯æœ¨å®è´HD,rtp://239.10.0.157:5140
+å¤©åºœTVå¯è’™ä¹å›­HD,rtp://239.10.0.158:5140
+æˆéƒ½å°‘å„¿é¢‘é“,rtp://239.10.0.16:5140
+é‡‘é¹°å¡é€š,rtp://239.11.0.127:5140
+ä¼˜æ¼«å¡é€š,rtp://239.11.0.63:5140
 
-ËÄ´¨ÆµµÀ
-ËÄ´¨ÎÀÊÓHD,rtp://239.11.0.78:5140,tvmao-sichuanweishi
-ËÄ´¨ĞÂÎÅ×ÊÑ¶HD,rtp://239.11.0.5:5140
-ËÄ´¨Ó°ÊÓÎÄÒÕHD,rtp://239.11.0.77:5140
-ËÄ´¨¾­¼ÃHD,rtp://239.11.0.2:5140
-ËÄ´¨ÎÄ»¯ÂÃÓÎHD,rtp://239.11.0.3:5140
-ËÄ´¨Ïç´åHD,rtp://239.11.0.4:5140
-ËÄ´¨¸¾Å®¶ùÍ¯HD,rtp://239.11.0.8:5140
-ËÄ´¨¿Æ½ÌHD,rtp://239.11.0.194:5140
-ËÄ´¨½»Í¨¹ã²¥,http://ls.qingting.fm/live/4886.m3u
-³É¶¼ĞÂÎÅ×ÛºÏHD,rtp://239.10.0.11:5140
-³É¶¼¾­¼Ã×ÊÑ¶,rtp://239.10.0.174:5140
-³É¶¼¶¼ÊĞÉú»î,rtp://239.10.0.13:5140
-³É¶¼Ó°ÊÓÎÄÒÕ,rtp://239.10.0.14:5140
-³É¶¼¹«¹²HD,rtp://239.10.0.15:5140
-³ÉÌúµçÊÓHD,rtp://239.11.0.191:5140
-×Ô¹±×ÛºÏÆµµÀHD,rtp://239.10.0.83:5140
-×Ô¹±¹«¹²ÆµµÀHD,rtp://239.10.0.84:5140
-ÈÙÏØ×ÛºÏÆµµÀHD,http://play.rongxianwang.net/rxzh/0835.m3u8?auth_key=1625042660-0-0-36e32b9c341e085f53b382e1cdde7a02
-ÄÏ³ä×ÛºÏHD,rtp://239.10.0.68:5140
-ÄÏ³ä¹«¹²HD,rtp://239.10.0.69:5140
-ÄÏ³ä¿Æ½ÌHD,rtp://239.10.0.70:5140
-ÅÊÖ¦»¨ĞÂÎÅ×ÛºÏ,rtp://239.10.0.74:5140
-ÅÊÖ¦»¨¹«¹²ÆµµÀ,rtp://239.10.0.75:5140
-Á¹É½ĞÂÎÅHD,rtp://239.10.0.64:5140
-»áÀíĞÂÎÅ,rtp://239.11.0.239:5140
-ÃàÑôĞÂÎÅ×ÛºÏHD,rtp://239.10.0.96:5140
-ÃàÑô¿Æ½ÌHD,rtp://239.10.0.98:5140
-ãòÖİ1Ì¨,rtp://239.10.0.46:5140
-ãòÖİ2Ì¨,rtp://239.10.0.47:5140
-ãòÖİ3Ì¨,rtp://239.10.0.48:5140
-ÒË±öĞÂÎÅHD,rtp://239.10.0.80:5140
-ÒË±ö¹«¹²HD,rtp://239.10.0.81:5140
-ÀÖÉ½ĞÂÎÅHD,rtp://239.10.0.62:5140
-ÀÖÉ½¹«¹²HD,rtp://239.10.0.63:5140
-Ã¼É½×ÛºÏHD,rtp://239.10.0.66:5140
-Ã¼É½¹«¹²HD,rtp://239.10.0.67:5140
-ÈÊÊÙ×ÛºÏHD,rtp://239.10.0.36:5140
-ÄÚ½­×ÛºÏHD,rtp://239.10.0.71:5140
-ÄÚ½­¹«¹²HD,rtp://239.10.0.72:5140
-ÄÚ½­¿Æ½ÌHD,rtp://239.10.0.73:5140
-¸Ê×ÎĞÂÎÅ×ÛºÏ,rtp://239.10.0.32:5140
-°¢°ÓººÓïHD,rtp://239.10.0.50:5140
-°ÍÖĞ×ÛºÏHD,rtp://239.10.0.52:5140
-°ÍÖĞ¹«¹²HD,rtp://239.10.0.53:5140
-´ïÖİĞÂÎÅHD,rtp://239.10.0.54:5140
-´ïÖİ¹«¹²HD,rtp://239.10.0.55:5140
-µÂÑôĞÂÎÅHD,rtp://239.10.0.56:5140
-µÂÑô¹«¹²HD,rtp://239.10.0.57:5140
-¹ã°²ĞÂÎÅHD,rtp://239.10.0.58:5140
-¹ã°²¹«¹²HD,rtp://239.10.0.59:5140
-¹ãÔª×ÛºÏHD,rtp://239.10.0.60:5140
-¹ãÔª¹«¹²HD,rtp://239.10.0.61:5140
-ËìÄş×ÛºÏHD,rtp://239.10.0.76:5140
-ËìÄş¹«¹²HD,rtp://239.10.0.77:5140
-ÑÅ°²ĞÂÎÅ×ÛºÏ,rtp://239.10.0.78:5140
-ÑÅ°²¹«¹²ÆµµÀ,rtp://239.10.0.79:5140
-×ÊÑôĞÂÎÅHD,rtp://239.10.0.82:5140
+å››å·é¢‘é“
+å››å·å«è§†HD,rtp://239.11.0.78:5140,tvmao-sichuanweishi
+å››å·æ–°é—»èµ„è®¯HD,rtp://239.11.0.5:5140
+å››å·å½±è§†æ–‡è‰ºHD,rtp://239.11.0.77:5140
+å››å·ç»æµHD,rtp://239.11.0.2:5140
+å››å·æ–‡åŒ–æ—…æ¸¸HD,rtp://239.11.0.3:5140
+å››å·ä¹¡æ‘HD,rtp://239.11.0.4:5140
+å››å·å¦‡å¥³å„¿ç«¥HD,rtp://239.11.0.8:5140
+å››å·ç§‘æ•™HD,rtp://239.11.0.194:5140
+å››å·äº¤é€šå¹¿æ’­,http://ls.qingting.fm/live/4886.m3u
+æˆéƒ½æ–°é—»ç»¼åˆHD,rtp://239.10.0.11:5140
+æˆéƒ½ç»æµèµ„è®¯,rtp://239.10.0.174:5140
+æˆéƒ½éƒ½å¸‚ç”Ÿæ´»,rtp://239.10.0.13:5140
+æˆéƒ½å½±è§†æ–‡è‰º,rtp://239.10.0.14:5140
+æˆéƒ½å…¬å…±HD,rtp://239.10.0.15:5140
+æˆé“ç”µè§†HD,rtp://239.11.0.191:5140
+è‡ªè´¡ç»¼åˆé¢‘é“HD,rtp://239.10.0.83:5140
+è‡ªè´¡å…¬å…±é¢‘é“HD,rtp://239.10.0.84:5140
+è£å¿ç»¼åˆé¢‘é“HD,http://play.rongxianwang.net/rxzh/0835.m3u8?auth_key=1625042660-0-0-36e32b9c341e085f53b382e1cdde7a02
+å—å……ç»¼åˆHD,rtp://239.10.0.68:5140
+å—å……å…¬å…±HD,rtp://239.10.0.69:5140
+å—å……ç§‘æ•™HD,rtp://239.10.0.70:5140
+æ”€æèŠ±æ–°é—»ç»¼åˆ,rtp://239.10.0.74:5140
+æ”€æèŠ±å…¬å…±é¢‘é“,rtp://239.10.0.75:5140
+å‡‰å±±æ–°é—»HD,rtp://239.10.0.64:5140
+ä¼šç†æ–°é—»,rtp://239.11.0.239:5140
+ç»µé˜³æ–°é—»ç»¼åˆHD,rtp://239.10.0.96:5140
+ç»µé˜³ç§‘æ•™HD,rtp://239.10.0.98:5140
+æ³¸å·1å°,rtp://239.10.0.46:5140
+æ³¸å·2å°,rtp://239.10.0.47:5140
+æ³¸å·3å°,rtp://239.10.0.48:5140
+å®œå®¾æ–°é—»HD,rtp://239.10.0.80:5140
+å®œå®¾å…¬å…±HD,rtp://239.10.0.81:5140
+ä¹å±±æ–°é—»HD,rtp://239.10.0.62:5140
+ä¹å±±å…¬å…±HD,rtp://239.10.0.63:5140
+çœ‰å±±ç»¼åˆHD,rtp://239.10.0.66:5140
+çœ‰å±±å…¬å…±HD,rtp://239.10.0.67:5140
+ä»å¯¿ç»¼åˆHD,rtp://239.10.0.36:5140
+å†…æ±Ÿç»¼åˆHD,rtp://239.10.0.71:5140
+å†…æ±Ÿå…¬å…±HD,rtp://239.10.0.72:5140
+å†…æ±Ÿç§‘æ•™HD,rtp://239.10.0.73:5140
+ç”˜å­œæ–°é—»ç»¼åˆ,rtp://239.10.0.32:5140
+é˜¿åæ±‰è¯­HD,rtp://239.10.0.50:5140
+å·´ä¸­ç»¼åˆHD,rtp://239.10.0.52:5140
+å·´ä¸­å…¬å…±HD,rtp://239.10.0.53:5140
+è¾¾å·æ–°é—»HD,rtp://239.10.0.54:5140
+è¾¾å·å…¬å…±HD,rtp://239.10.0.55:5140
+å¾·é˜³æ–°é—»HD,rtp://239.10.0.56:5140
+å¾·é˜³å…¬å…±HD,rtp://239.10.0.57:5140
+å¹¿å®‰æ–°é—»HD,rtp://239.10.0.58:5140
+å¹¿å®‰å…¬å…±HD,rtp://239.10.0.59:5140
+å¹¿å…ƒç»¼åˆHD,rtp://239.10.0.60:5140
+å¹¿å…ƒå…¬å…±HD,rtp://239.10.0.61:5140
+é‚å®ç»¼åˆHD,rtp://239.10.0.76:5140
+é‚å®å…¬å…±HD,rtp://239.10.0.77:5140
+é›…å®‰æ–°é—»ç»¼åˆ,rtp://239.10.0.78:5140
+é›…å®‰å…¬å…±é¢‘é“,rtp://239.10.0.79:5140
+èµ„é˜³æ–°é—»HD,rtp://239.10.0.82:5140
