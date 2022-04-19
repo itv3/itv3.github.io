@@ -1,5 +1,5 @@
 央视&卫视,#genre#
-CCTV1综合HD,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225642/index.m3u8#http://192.168.9.1:5141/rtp/239.11.0.65:5140
+CCTV1综合HD,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225642/index.m3u8$江苏移动回看#http://192.168.9.1:5141/rtp/239.11.0.65:5140$单播#rtp://239.11.0.65:5140$组播
 CCTV2财经HD,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225643/index.m3u8#http://192.168.9.1:5141/rtp/239.11.0.108:5140
 CCTV3综艺HD,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225634/index.m3u8#http://192.168.9.1:5141/rtp/239.11.0.101:5140
 CCTV4国际HD,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225621/index.m3u8#http://192.168.9.1:5141/rtp/239.11.0.109:5140
