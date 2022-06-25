@@ -52,7 +52,7 @@ CCTV17农村农业HD,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/32212
 
 超高清&剧场综艺,#genre#
 CCTV-16 4k,http://192.168.9.1:5141/rtp/239.11.0.67:5140$单播
-CCTV-4K,https://p.ggiptv.com/v/4k.m3u8
+CCTV-4K,https://p.ggiptv.com/v/4k.m3u8#http://ye23.win/iptv/4k.cctv.php
 爱上4K,http://192.168.9.1:5141/rtp/239.11.0.120:5140$单播
 咪咕4K,http://192.168.9.1:5141/rtp/239.11.0.122:5140$单播
 纯享4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8#http://39.135.55.7:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1
