@@ -199,6 +199,8 @@ http://192.168.9.1:5141/rtp/239.11.0.77:5140
 http://192.168.9.1:5141/rtp/239.11.0.8:5140
 #EXTINF:-1 tvg-id="2062" tvg-name="SCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv8.png" group-title="四川频道",四川科教HD
 http://192.168.9.1:5141/rtp/239.11.0.194:5140
+#EXTINF:-1 group-title="四川频道",峨眉电影
+http://192.168.9.1:5141/rtp/239.11.0.11:5140
 #EXTINF:-1 group-title="四川频道",四川交通广播
 http://ls.qingting.fm/live/4886.m3u8
 #EXTINF:-1 tvg-id="2064" tvg-name="CDTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv1.png" group-title="四川频道",成都新闻综合HD
