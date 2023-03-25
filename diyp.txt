@@ -52,7 +52,7 @@ CCTV17农村农业HD,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/32212
 海南卫视HD,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226212/index.m3u8?fmt=ts2hls$江西移动回看#http://192.168.9.1:5141/rtp/239.11.0.193:5140$单播
 超高清&剧场综艺,#genre#
 CCTV-16 4k,http://192.168.9.1:5141/rtp/239.11.0.67:5140$单播
-CCTV-4K,https://p.ggiptv.com/v/4k.m3u8
+CCTV-4K,http://159.75.85.63:5679/cctv4k.php
 爱上4K,http://192.168.9.1:5141/rtp/239.11.0.120:5140$单播
 纯享4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
 欢笑剧场4K,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$浙江移动#http://192.168.9.1:5141/rtp/239.10.0.129:5140$单播
