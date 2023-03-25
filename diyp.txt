@@ -55,8 +55,7 @@ CCTV-16 4k,http://192.168.9.1:5141/rtp/239.11.0.67:5140$单播
 CCTV-4K,https://p.ggiptv.com/v/4k.m3u8
 爱上4K,http://192.168.9.1:5141/rtp/239.11.0.120:5140$单播
 纯享4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
-欢笑剧场4K,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-$浙江移动
+欢笑剧场4K,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$浙江移动#http://192.168.9.1:5141/rtp/239.10.0.129:5140$单播
 
 BesTV百事通HD,http://192.168.9.1:5141/rtp/239.11.0.234:5140$单播
 NewTV精品记录HD,http://192.168.9.1:5141/rtp/239.11.0.132:5140$单播
