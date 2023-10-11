@@ -1,1 +1,1 @@
-DOMAIN-SUFFIX,mtalk.google.com,DIRECT
+DOMAIN-SUFFIX,mtalk.google.com
