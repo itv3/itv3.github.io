@@ -149,18 +149,3 @@ http://192.168.9.1:5141/rtp/239.93.0.19:1250
 http://192.168.9.1:5141/rtp/239.93.1.231:5140
 #EXTINF:-1 tvg-id="2068" tvg-name="CDTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv6.png" group-title="四川频道",CDTV.6少儿HD
 http://192.168.9.1:5141/rtp/239.93.0.21:1251
-
-#EXTINF:-1 group-title="直播中国",上海这一刻:魔都眼
-http://bililive.kksmg.com/hls/sdi80/playlist.m3u8
-#EXTINF:-1 group-title="直播中国",上海这一刻:陆家嘴
-http://bililive.kksmg.com/hls/sdi70/playlist.m3u8
-#EXTINF:-1 group-title="直播中国",成都熊猫塔
-https://gccncc.v.wscdns.com/gc/lhszjsp_1/index.m3u8
-#EXTINF:-1 group-title="直播中国",峨眉山云海日出
-https://gccncc.v.wscdns.com/gc/emsarm_1/index.m3u8
-#EXTINF:-1 group-title="直播中国",浙江杭州千岛湖
-https://gccncc.v.wscdns.com/gc/caqdh_1/index.m3u8
-#EXTINF:-1 group-title="直播中国",鸣沙山山门
-https://gcalic.v.myalicdn.com/gc/dhyyqst_1/index.m3u8
-#EXTINF:-1 group-title="直播中国",玉龙雪山
-https://gcalic.v.myalicdn.com/gc/ylxs11_1/index.m3u8
