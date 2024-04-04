@@ -108,6 +108,8 @@ http://192.168.9.1:5141/rtp/239.93.42.54:5140
 http://192.168.9.1:5141/rtp/239.93.42.42:5140
 #EXTINF:-1 tvg-id="7244" tvg-name="爱上4K" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="超高清&剧场综艺",爱上4K
 http://192.168.9.1:5141/rtp/239.93.0.97:5140
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" tvg-id="1977" tvg-name="欢笑剧场" group-title="超高清&剧场综艺",欢笑剧场
+http://192.168.9.1:5141/rtp/239.93.0.145:5140
 #EXTINF:-1  group-title="超高清&剧场综艺",BesTV4k
 http://192.168.9.1:5141/rtp/239.93.42.75:5140
 #EXTINF:-1 group-title="超高清&剧场综艺",4K乐享
