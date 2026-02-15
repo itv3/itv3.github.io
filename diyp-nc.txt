@@ -40,7 +40,7 @@ CCTV17农村农业,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227577/index
 贵州卫视,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227357/index.m3u8$南充联通
 广西卫视,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227939/index.m3u8$南充联通
 青海卫视,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227123/index.m3u8$南充联通
-云南卫视http://sc.rrs.169ol.com/PLTV/88888888/224/3221227962/index.m3u8$南充联通
+云南卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227962/index.m3u8$南充联通
 四川卫视,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227417/index.m3u8$南充联通
 四川新闻,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227411/index.m3u8$南充联通
 四川经济,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227415/index.m3u8$南充联通
@@ -53,4 +53,5 @@ CCTV17农村农业,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227577/index
 欢笑剧场4K,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227970/index.m3u8$南充联通
 南充综合1,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227805/index.m3u8$南充联通
 南充综合2,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227930/index.m3u8$南充联通
+
 
